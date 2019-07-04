@@ -1,0 +1,13 @@
+---
+description: Add support for XMC4800 Connectivity Kit
+fullname: board.zerynth.xmc4800_connectivitykit
+info:
+    board: XMC4800 Connectivity Kit
+    chip_manufacturer: Infineon
+    device: xmc4800
+    family_type: ARM Cortex M4
+keywords:
+- board
+- infineon
+title: Infineon XMC4800 Connectivity Kit Board Support Package
+...
